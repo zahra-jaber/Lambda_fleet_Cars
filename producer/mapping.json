@@ -1,0 +1,13 @@
+{
+  "vehicle_id": "VEHICLE_ID",
+  "speed_kmh": "SPEED",
+  "rpm": "ENGINE_RPM",
+  "engine_temp_c": "ENGINE_COOLANT_TEMP",
+  "fuel_level_pct": "FUEL_LEVEL",
+  "tire_pressure_psi": null,
+  "battery_v": null,
+  "lat": null,
+  "lon": null,
+  "odometer_km": null,
+  "status": null
+}

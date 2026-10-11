@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Airflow and local runtime files
+airflow/logs/
+airflow/airflow.db
+airflow/simple_auth_manager.db
+
+# Spark and Hadoop local artifacts
+.ivy2/
+metastore_db/
+spark-warehouse/
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
